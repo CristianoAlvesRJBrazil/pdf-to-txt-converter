@@ -1,0 +1,29 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribuição / build
+dist/
+build/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs e saídas geradas pelo script
+txt_convertidos/
+conversao_log_*.txt
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
