@@ -35,7 +35,7 @@ Utilitário Python para converter múltiplos arquivos PDF em texto simples (`.tx
 ## 🚀 Instalação
 
 ```bash
-git clone https://github.com/<seu-usuario>/conversor-pdf-lote.git
+git clone https://github.com/CristianoAlvesRJBrazil/pdf-to-txt-converter.git
 cd conversor-pdf-lote
 
 # (Opcional) Ambiente virtual
